@@ -1,0 +1,16 @@
+/.vscode
+build
+blis
+blt
+*.hdf5
+*.vtk
+*.d
+*.o
+*.table
+*.dat
+*.exe
+.DS_Store
+*.err
+*.out
+*.sh
+pout.*
